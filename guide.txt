@@ -1,0 +1,11 @@
+Install
+
+1. Right click the game and select properties then browse local files
+2. Drag the contents of the install folder into the game folder
+3. Click replace files
+4. Enjoy extra recipes
+
+Uninstall
+
+1. Drag the contents of the uninstall folder to the game folder
+2. Click replace files
